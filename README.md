@@ -5,9 +5,9 @@
 
 ## 1. Navigation & Informations
 ```bash
-- cd dir  # change directory  
-- pwd     # print current directory  
-- ls      # list files and folders (default: alphabetically)
+cd dir  # change directory  
+pwd     # print current directory  
+ls      # list files and folders (default: alphabetically)
 ```  
 
 **Ls flags :**
